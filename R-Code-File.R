@@ -34,9 +34,5 @@ square <- function(x) {
 }
 squared_value <- square(4)  # Use the function
 
-# Reading and Writing Data
-write.csv(data, "data.csv")  # Write data to a CSV file
-read_data <- read.csv("data.csv")  # Read data from a CSV file
-
 # Plotting
 plot(vec, main = "Simple Plot", xlab = "Index", ylab = "Value", type = "o")  # Basic plot
