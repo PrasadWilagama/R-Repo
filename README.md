@@ -135,4 +135,4 @@ var(v)
 If you have additional commands or improvements, feel free to contribute by submitting a pull request.
 
 ## License
-This repository is open-source and available under the MIT License.
+This repository is open-source.
